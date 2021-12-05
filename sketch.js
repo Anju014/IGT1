@@ -1,8 +1,10 @@
 // TASKS
-// Step 1: Spawn the enemies (enemy1 and enemy2 should come from right side whereas enemy3 and enemy4 should come from left side)
-// Step 2: Create groups for birds and enemies and add sprites to it.
-// Step 3: Assign Game States - play and end
-// Step 4: if boy touches enemies, gamestate changes to end. Add hit sound.
+// Step 1: Create an infinite background using road.png.
+// Step 2: Create boy sprite and add animation (boy1 to boy7) to it.
+// Step 3: When the space key is pressed, make the boy jump. Jump sound should be heard.
+// Step 4: Create an invisible ground for the boy to collide.
+// Step 5: Jumping in the air should be avoided.
+// Step 6: Spawn the birds randomly.
 
 
 function preload(){
